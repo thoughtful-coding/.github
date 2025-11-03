@@ -1,19 +1,20 @@
 # Thoughtful Coding
 
 Thoughtful Coding is an open-source, interactive platform for Computer Science
-teachers to augment their lessons with best-practice, research-backed techniques.
-
----
-
-![A demo of the Thoughtful Coding platform](/assets/images/section_debugging.png)
-
----
+teachers to augment their lessons with an easy to use website steeped in research-backed
+techniques to help students learn.
 
 Thoughtful Coding is designed for...
 
 - **CS Teachers** who want a free, customizable platform to host their own curriculum.
 - **Students** who want to learn Python in a self-paced, exploratory way.
 - **Contributors** who want to build and share curriculum with a community.
+
+---
+
+![A demo of the Thoughtful Coding platform](/assets/images/section_debugging.png)
+
+---
 
 ## Core Differentiators
 
@@ -30,7 +31,8 @@ are:
 
 ## Pedagogy
 
-The platform is built around "Learning Sections" that test and reframe material:
+The platform is built around "Learning Sections" that help students build and test their
+understanding:
 
 - **[PRIMM](https://thoughtful-coding.github.io/python/lesson/00_intro/lessons/01_intro_integers#primm-strings-and-integers):** Students predict code output, run it, and reflect on the differences.
 - **[Reflection](https://thoughtful-coding.github.io/python/lesson/02_strings/lessons/01_fstring_practice#fstrings-reflection):** Students journal on new topics and get iterative AI feedback.
