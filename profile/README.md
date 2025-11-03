@@ -35,10 +35,10 @@ The platform is built around "Learning Sections" that test and reframe material:
 - **[PRIMM](https://thoughtful-coding.github.io/python/lesson/00_intro/lessons/01_intro_integers#primm-strings-and-integers):** Students predict code output, run it, and reflect on the differences.
 - **[Reflection](https://thoughtful-coding.github.io/python/lesson/02_strings/lessons/01_fstring_practice#fstrings-reflection):** Students journal on new topics and get iterative AI feedback.
 - **[Debugging](https://thoughtful-coding.github.io/python/lesson/06_loops/lessons/02_loops_nesting#debug-nesting):**
-- **[Testing](https://thoughtful-coding.github.io/python/lesson/06_loops/lessons/01_loops_challenges#octagon-test):** Students solve problems and get immediate feedback from I/O tests.
+- **[Testing](https://thoughtful-coding.github.io/python/lesson/06_loops/lessons/01_loops_challenges#octagon-testing):** Students solve problems and get immediate feedback from I/O tests.
 - Input/Output questions where students must "work backwards" to understand how inputs affect outputs
   - **[Prediction](https://thoughtful-coding.github.io/python/lesson/05_conditionals/lessons/03_cond_if_else#pass-fail-prediction)**
-  - **[Coverage](https://thoughtful-coding.github.io/python/lesson/05_conditionals/lessons/05_cond_bool#ride-requirements)** 
+  - **[Coverage](https://thoughtful-coding.github.io/python/lesson/05_conditionals/lessons/05_cond_bool#free-admission)** 
 - Various deterministic question types to target and correct common misconceptions.
   - **[Multiple Choice](https://thoughtful-coding.github.io/python/lesson/01_variables/lessons/03_var_wrap_up#variable-assignment)**
   - **[Multiple Selection](https://thoughtful-coding.github.io/python/lesson/01_variables/lessons/00_var_intro#variable-parts)**
