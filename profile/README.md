@@ -34,16 +34,18 @@ are:
 The platform is built around "Learning Sections" that help students build and test their
 understanding:
 
-- **[PRIMM](https://thoughtful-coding.github.io/python/lesson/00_intro/lessons/01_intro_integers#primm-strings-and-integers):** Students predict code output, run it, and reflect on the differences.
-- **[Reflection](https://thoughtful-coding.github.io/python/lesson/02_strings/lessons/01_fstring_practice#fstrings-reflection):** Students journal on new topics and get iterative AI feedback.
-- **[Debugging](https://thoughtful-coding.github.io/python/lesson/06_loops/lessons/02_loops_nesting#debug-nesting):** Students step through programs and "watch" their code execute.
-- **[Testing](https://thoughtful-coding.github.io/python/lesson/06_loops/lessons/01_loops_challenges#octagon-testing):** Students solve problems and get immediate feedback from I/O tests.
-- Input/Output questions where students must "work backwards" to understand how inputs affect outputs
-  - **[Prediction](https://thoughtful-coding.github.io/python/lesson/05_conditionals/lessons/03_cond_if_else#pass-fail-prediction)**
-  - **[Coverage](https://thoughtful-coding.github.io/python/lesson/05_conditionals/lessons/05_cond_bool#free-admission)** 
-- Various deterministic question types to target and correct common misconceptions.
-  - **[Multiple Choice](https://thoughtful-coding.github.io/python/lesson/01_variables/lessons/03_var_wrap_up#variable-assignment)**
-  - **[Multiple Selection](https://thoughtful-coding.github.io/python/lesson/01_variables/lessons/00_var_intro#variable-parts)**
+- **[PRIMM](https://thoughtful-coding.github.io/intro-python/lesson/00_intro/lessons/02_intro_integers#primm-strings-and-integers):** Students predict code output, run it, and reflect on the differences.
+- **[Reflection](https://thoughtful-coding.github.io/intro-python/lesson/02_strings/lessons/02_mad_libs#human-understanding-reflection):** Students journal on new topics and get iterative AI feedback.
+- **[Debugging](https://thoughtful-coding.github.io/intro-python/lesson/06_loops/lessons/02_loops_nesting#debug-nesting):** Students step through programs and "watch" their code execute.
+- Different ways to assess students ability to write code:
+  - **[Testing](https://thoughtful-coding.github.io/intro-python/lesson/06_loops/lessons/01_loops_challenges#octagon-testing):** Students solve problems and get immediate feedback from I/O tests.
+  - **[Parsons](https://thoughtful-coding.github.io/intro-python/lesson/01_variables/lessons/02_var_multi#order-vars):** Students arrange blocks of code and get feedback from I/O tests.
+- Input/Output questions where students must "work backwards" to understand how inputs affect outputs:
+  - **[Prediction](https://thoughtful-coding.github.io/intro-python/lesson/05_conditionals/lessons/03_cond_if_else#pass-fail-prediction)**
+  - **[Coverage](https://thoughtful-coding.github.io/intro-python/lesson/05_conditionals/lessons/05_cond_bool#free-admission)** 
+- Various deterministic question types to target and correct common misconceptions:
+  - **[Multiple Choice](https://thoughtful-coding.github.io/intro-python/lesson/01_variables/lessons/04_var_wrap_up#variable-assignment)**
+  - **[Multiple Selection](https://thoughtful-coding.github.io/intro-python/lesson/01_variables/lessons/00_var_intro#variable-parts)**
   - **[Matching](https://thoughtful-coding.github.io/science-of-learning/lesson/00_learning/lessons/00_learning_primm#primm-matching)** 
 
 ---
